@@ -25,10 +25,10 @@ echo "     ____________"
 echo " ___| Ferramenta By __| " $putih
 echo "|  Dark Yt__|"
 echo "|__________| $merah"
-echo "                     ______________"
-echo "                    | Ferramenta de login  |"
-echo "                     ^^^^^^^^^^^^^^"
-read -p "insira a senha da ferramenta : " pass
+echo "                     _________________________________"
+echo "                    | Ferramenta de login secundário  |"
+echo "                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^"
+read -p "insira a senha da ferramenta dnv pfv : " pass
 echo "Por favor espere um momento....."
 sleep 3
 done
